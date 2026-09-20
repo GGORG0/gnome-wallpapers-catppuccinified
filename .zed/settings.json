@@ -1,0 +1,5 @@
+{
+  "file_types": {
+    "Tera (XML)": ["*.svg.tera"],
+  },
+}
